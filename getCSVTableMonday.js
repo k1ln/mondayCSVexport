@@ -354,4 +354,3 @@ function cleanTextforCSV(txt)
 var table = process.argv[2];
 
 getBoardData(table);
-//console.log(eval("FormulaSM(72,6)"));
