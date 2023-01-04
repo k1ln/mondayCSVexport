@@ -292,11 +292,6 @@ async function getBoardData(boardid) {
           try
           {
             value = firststr + eval(evilformula);
-            if(columnvalues[icolumnvalues]["id"]=="formel53")
-            {
-              console.log(evilformula);
-              console.log(value);
-            }
             if(value == "NaN")
             {
               console.log(evilformula)
