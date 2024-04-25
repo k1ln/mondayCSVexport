@@ -1,4 +1,4 @@
-# mondayCSVexport with working formulas
+# monday CSV export with working formulas
 This is an CSV Export with formula-parser (using formula.js) for monday.com written in node.js. 
 
 I use this for backup purposes. 
