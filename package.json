@@ -1,0 +1,14 @@
+{
+  "name": "mondaycsvexport-main",
+  "version": "1.0.0",
+  "description": "This is an CSV Export with formula-parser (using formula.js) for monday.com written in node.js.",
+  "main": "getCSVTableMonday.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@formulajs/formulajs": "^4.4.4"
+  }
+}
